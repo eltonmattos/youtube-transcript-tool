@@ -1,0 +1,4 @@
+requests
+youtube-transcript-api
+beautifulsoup4
+google-generativeai
