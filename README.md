@@ -1,5 +1,7 @@
 # YouTube Transcript Tool with AI (Gemini) or Offline
 
+![image](https://github.com/user-attachments/assets/758722c6-e3bc-49e8-b81b-8a50a735f53c)
+
 ## 📄 Descrição
 Ferramenta para baixar transcrições de vídeos ou playlists do YouTube e processá-las com inteligência artificial (Google Gemini) — com recursos de formatação, capítulos, tradução, resumo e remoção de anúncios — ou operar em modo offline, baixando apenas a transcrição bruta.
 
